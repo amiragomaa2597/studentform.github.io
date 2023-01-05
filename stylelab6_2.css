@@ -1,0 +1,31 @@
+.PD
+{
+ background-color: blueviolet;
+}
+.OS
+{
+background-color: indianred;
+}
+
+.SA
+{
+background-color: aqua;
+}
+.nameClass
+{
+    font-size: xx-large;
+}
+.gradeClass
+{
+    font-size: xx-large;
+}
+
+.hidden
+{
+    visibility: hidden;
+}
+
+.shown
+{
+    visibility: visible;
+}
